@@ -5,7 +5,7 @@ CATS is an innovative technology stack that aims to provide cutting-edge adaptat
 It's not clear how radiant, nanoframe, and cosmos will be at the moment, but Pulse is in the work.
 
 ## Radiant - Real-time Adaptive Display and Illumination Toolkit
-Radiant is a powerful rendering engine similar to Unreal Engine's Lumen. It focuses on real-time global illumination techniques to enhance the realism and visual quality of rendered scenes. By utilizing advanced algorithms and optimizations, Radiant aims to provide efficient and accurate lighting calculations for dynamic scenes.
+Radiant is a powerful light engine similar to Unreal Engine's Lumen. It focuses on real-time global illumination techniques to enhance the realism and visual quality of rendered scenes. By utilizing advanced algorithms and optimizations, Radiant aims to provide efficient and accurate lighting calculations for dynamic scenes.
 
 ## Nanoframe - Nanostructured Adaptive Mesh Optimization Framework
 Nanoframe is a revolutionary technology similar to Unreal Engine's Nanite. It aims to tackle the challenge of rendering massive amounts of geometric detail efficiently. Nanoframe utilizes advanced algorithms and data structures to enable real-time rendering of highly detailed meshes without sacrificing performance. With Nanoframe, developers can create incredibly detailed environments and models, pushing the boundaries of visual fidelity in real-time graphics.

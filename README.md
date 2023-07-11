@@ -2,7 +2,7 @@
 CATS is an innovative technology stack that aims to provide cutting-edge adaptation capabilities for various rendering and post-processing tasks in the field of computer graphics for Unity Universal Render Pipeline. CATS contains four sub-projects: Radiant, Nanoframe, Cosmos, Pulse.
 
 ### Current Status:
-It's not clear how radiant, nanoframe, and cosmos will be at the moment, but Pulse is in the work.
+It's unclear how Radiant and Nanoframe will be at the moment, but Pulse and Cosmos are in the work in progress.
 
 ## Radiant - Real-time Adaptive Display and Illumination Toolkit
 Radiant is a powerful light engine similar to Unreal Engine's Lumen. It focuses on real-time global illumination techniques to enhance the realism and visual quality of rendered scenes. By utilizing advanced algorithms and optimizations, Radiant aims to provide efficient and accurate lighting calculations for dynamic scenes.
@@ -10,7 +10,7 @@ Radiant is a powerful light engine similar to Unreal Engine's Lumen. It focuses 
 ## Nanoframe - Nanostructured Adaptive Mesh Optimization Framework
 Nanoframe is a revolutionary technology similar to Unreal Engine's Nanite. It aims to tackle the challenge of rendering massive amounts of geometric detail efficiently. Nanoframe utilizes advanced algorithms and data structures to enable real-time rendering of highly detailed meshes without sacrificing performance. With Nanoframe, developers can create incredibly detailed environments and models, pushing the boundaries of visual fidelity in real-time graphics.
 
-## Cosmos - Creative Optimization System for Modular Output Generation
+## [Cosmos - Creative Optimization System for Modular Output Generation](https://github.com/Warwlock/COSMOS)
 Cosmos is a flexible and versatile framework inspired by Blender's Geometry Nodes. It provides a node-based system for procedural generation and manipulation of 3D geometry. With Cosmos, developers can create complex procedural workflows to generate, modify, and animate geometry in a visual and intuitive manner. It empowers artists and developers to create dynamic and customizable assets, simulations, and effects with ease.
 
 ## [Pulse - Post-Processing Utilities, LUTs, and Special Effects](https://github.com/Warwlock/PULSE)
@@ -18,7 +18,7 @@ Pulse is a comprehensive post-processing pipeline designed to enhance the visual
 
 Pulse contains those effects (More can be added later...): FSR 2.0, Color Adjustment, Tone Mapping, Depth of Field, Bloom, Chromatic Aberration, Film Grain, Lens Distortion, Motion Blur, Vignette, White Balance
 
-To see the full progress of Pulse, you can go to its own repository.
+To see the full progress of Pulse and Cosmos, you can go to their own repositories.
 
 # NOTE:
 I am developing this project in my spare time, so it is progressing very slowly and I certainly do not know whether this project will be completed or not because it's harder than I thought.
